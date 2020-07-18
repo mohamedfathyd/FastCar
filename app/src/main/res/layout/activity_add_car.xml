@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+    android:background="@color/colorPrimary"
+    >
+    <androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:local="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        local:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        local:popupTheme="@style/ThemeOverlay.AppCompat.Light" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:text="أضافة سيارة"
+            android:layout_gravity="center"
+            android:id="@+id/toolbar_title" />
+
+
+    </androidx.appcompat.widget.Toolbar>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_below="@id/app_bar"
+        android:layout_height="wrap_content">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:orientation="vertical"
+                    >
+                <ImageView
+                    android:layout_width="350dp"
+                    android:layout_height="150dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/logo"
+                    />
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@drawable/backshapeempty"
+                        android:hint="ماركة السيارة"
+                         android:id="@+id/brand"
+                        android:padding="10dp"
+                        android:textColor="#ffffff"
+                        android:textSize="15dp"
+                        />
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@drawable/backshapeempty"
+                        android:hint="موديل السيارة"
+                        android:id="@+id/model"
+                        android:layout_marginTop="10dp"
+                        android:padding="10dp"
+                        android:textSize="15dp"
+                        android:textColor="#ffffff"
+                        />
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/backshapeempty"
+                        android:hint="لون السيارة"
+                        android:id="@+id/colorr"
+                        android:padding="10dp"
+                        android:textSize="15dp"
+                        android:textColor="#ffffff"
+                        />
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/backshapeempty"
+                        android:hint="رقم السيارة"
+                        android:id="@+id/numberr"
+                        android:padding="10dp"
+                        android:textSize="15dp"
+                        android:textColor="#ffffff"
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/backshapeempty"
+                        android:hint="صورة رخصة السيارة"
+                        android:id="@+id/carId"
+                        android:padding="10dp"
+                        android:textSize="15dp"
+                        android:textColor="#ffffff"
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/backshapeempty"
+                        android:hint="صورة رخصة القيادة"
+                        android:id="@+id/driveId"
+                        android:padding="10dp"
+                        android:textColor="#ffffff"
+                        android:textSize="15dp"
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/backshapeempty"
+                        android:hint="صورة البطاقة وش"
+                        android:id="@+id/frontId"
+                        android:padding="10dp"
+                        android:textColor="#ffffff"
+                        android:textSize="15dp"
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/backshapeempty"
+                        android:hint="صورة البطاقة ظهر"
+                        android:id="@+id/backId"
+                        android:padding="10dp"
+                        android:textSize="15dp"
+                        android:textColor="#ffffff"
+                        />
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/add"
+                        android:layout_width="250dp"
+                        android:layout_gravity="center"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="40dp"
+                        android:textAllCaps="false"
+                        android:textColor="#ffffff"
+                        android:background="@drawable/backshape2"
+                        android:text="@string/confirm" />
+                </LinearLayout>
+            </RelativeLayout>
+        </ScrollView>
+    </RelativeLayout>
+</RelativeLayout>

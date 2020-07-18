@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splashh"
+     >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_marginTop="210dp"
+
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:layout_marginRight="20dp"
+        android:paddingTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:paddingBottom="20dp"
+        android:paddingRight="15dp"
+        android:orientation="vertical"
+
+        >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/confirmPhone"
+        android:textSize="20dp"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/codemessage"
+        android:textColor="#ffffff"
+        android:layout_marginTop="10dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:orientation="horizontal"
+        android:weightSum="6"
+        >
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="0.6"
+            android:background="@drawable/phone"
+            />
+        <com.hbb20.CountryCodePicker
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.9"
+            app:ccp_hintExampleNumber="true"
+            app:ccp_countryPreference="SA"
+            app:ccp_defaultNameCode="SA"
+            android:layout_marginTop="20dp"
+            app:ccp_contentColor="#ffffff"
+            app:ccp_showPhoneCode="false"
+            android:id="@+id/ccp"
+            app:ccp_hintExampleNumberType="FIXED_LINE"/>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/textInputLayoutphone"
+            android:layout_width="0dp"
+            android:layout_weight="3.5"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/textInputEditTextphone"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="@string/phone"
+                android:longClickable = "false"
+                android:textSize="16dp"
+                android:inputType="number"
+                android:maxLines="1"
+                android:padding="5dp"
+                android:textColor="#ffffff" />
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/appCompatButtonRegisterservcies"
+            android:layout_width="250dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:background="@drawable/backshapeempty"
+            android:text="@string/send" />
+    </LinearLayout>
+</LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,230 @@
+<resources>
+    <string name="app_name">فاست كار</string>
+    <string name="hint_name">الأسم</string>
+    <string name="Region">المنطقة</string>
+    <string name="more">المزيد</string>
+    <string name="MySubscribe">مشاركاتي الشهرية</string>
+    <string name="SubScribe">أشتراك</string>
+    <string name="user">عميل</string>
+    <string name="fani">ونش أو فني إصلاح</string>
+    <string name="Repair">فني أصلاح</string>
+    <string name="Winch">ونش</string>
+    <string name="yourRides">رحلاتك</string>
+    <string name="Setting">أعدادات</string>
+    <string name="SubScribeM">أشتراك شهري</string>
+    <string name="Aaddress">العنوان :</string>
+    <string name="addressTitle">من فضلك قم بتحديد العناون الخاص بمكان تنفيذ الخدمة المطلوبة</string>
+    <string name="autoAddress">تحديد الموقع الحالي تلقائيا</string>
+    <string name="handAddress">كتابة الموقع يدويا</string>
+    <string name="Or">أو</string>
+    <string name="Faddress">العنوان بالكامل</string>
+    <string name="specialmarque">علامة مميزه</string>
+    <string name="userName">اسم العميل</string>
+    <string name="requiredservice">الخدمة المطلوبة</string>
+    <string name="Costofinspection">تكلفة المعاينة</string>
+    <string name="Chooseyourpaymentmethod">اختر طريقة الدفع</string>
+    <string name="finishOrder">أنهاء الطلب</string>
+    <string name="specila">إذا كنت تبحث عن منتج ولم تجده !!! لا تقلق.
+أرسل لنا تفاصيل المنتج وسوف نقدمه لك.</string>
+    <string name="ProuductName">اسم المنتج</string>
+    <string name="description">الوصف :</string>
+    <string name="bankAccounts">أرقام الحساب</string>
+    <string name="upload"> رفع صور للخدمة المراد تنفيذها</string>
+    <string name="NewOrders">طلبات جديدة</string>
+    <string name="MyOrders">طلباتي</string>
+    <string name="finish">لقد وافقت على  الطلب</string>
+    <string name="UnSubScribe">إلغاء الأشتراك</string>
+    <string name="detail">تفاصيل المنتج :</string>
+    <string name="numberOf"> عدد القطع :</string>
+    <string name="servcie">الخدمة المقدمة</string>
+    <string name="LocationFrom">من :</string>
+    <string name="Subject">العنوان</string>
+    <string name="message">الرسالة</string>
+    <string name="chat">الدردشة</string>
+    <string name="location">الموقع</string>
+    <string name="send">إرسال</string>
+    <string name="LocationTo">إلي :</string>
+    <string name="moreDetails">تفاصيل أكتر ....</string>
+    <string name="time">وقت :</string>
+    <string name="typepay">اختر طريقة الدفع الخاصة بك</string>
+    <string name="cash">نقداً</string>
+    <string name="creditcard">دفع الألكترونى</string>
+    <string name="driverarrive">نوع السيارة</string>
+    <string name="cancelOrder">ألغاء الطلب</string>
+    <string name="space">المسافة :</string>
+    <string name="whereto">إلى اين سوف تذهب </string>
+    <string name="carNumber">اسم المصلحة</string>
+    <string name="directorder">طلب مباشر</string>
+    <string name="carModel">اسم الشركة</string>
+    <string name="status">حالة السائق :</string>
+    <string name="NEwpassword">كلمة مرور جديد</string>
+    <string name="RegesterCar">التسجيل كاسائق</string>
+    <string name="RegisterServcie">التسجيل كافني صيانة</string>
+    <string name="carId">صورة رخصه القيادة</string>
+    <string name="personId">الهوية من الامام</string>
+    <string name="imagead">صورة الإقامة</string>
+    <string name="carIdf">رخصة قيادة امام</string>
+    <string name="carIdback">رخصة قيادة خلف</string>
+    <string name="personIdback"> الهويه من الخلف</string>
+    <string name="personIdd">الهوية الوطنية</string>
+    <string name="face">تسجيل الدخول عبر الفيس بوك</string>
+    <string name="guest">استمر كازائر</string>
+    <string name="Register_Tager">تسجيل الفنيين</string>
+    <string name="fatoura">الفاتورة</string>
+    <string name="profile"> الشخصية</string>
+    <string name="main">الرئيسية</string>
+    <string name="Logout">تسجيل خروج</string>
+    <string name="salon">الصوالين الصحية</string>
+    <string name="sport">الأندية الرياضية</string>
+    <string name="wedding">قاعات الأفراح</string>
+    <string name="bankpic">قم برفع صورة التحويل البنكي</string>
+    <string name="meeting">خدمات الضيافه</string>
+    <string name="hint_phone">رقم الجوال</string>
+    <string name="whous">من نحن</string>
+    <string name="callus">اتصل بنا</string>
+    <string name="myorders">طلباتي</string>
+    <string name="Ratethetechnician">قم بتقييم الفني</string>
+    <string name="feedback">قم بكتابة ملاحظاتك</string>
+    <string name="receve">تأكيد الحجز</string>
+    <string name="continuee">أستكمال</string>
+    <string name="staff">العاملين</string>
+    <string name="info">معلومات</string>
+    <string name="servcies">خدمات</string>
+    <string name="Offers">عروض</string>
+    <string name="EnterDetails">أدخل التفاصيل :</string>
+    <string name="real">ريال</string>
+    <string name="editProfile">تعديل البيانات</string>
+    <string name="accept">قبول </string>
+    <string name="country">المدينة</string>
+    <string name="men">رجال</string>
+    <string name="women">نساء</string>
+    <string name="addto">إضافة الى سلة المشتريات</string>
+    <string name="whoustxt">عبارة عن تطبيق لمنصة للتجارة الإلكترونية التي تتيح للتاجرات الاماراتيات عرض وبيع المنتجات، كما يتيح للأفراد شراء مجموعة متنوعة من المنتجات و يسهل التعامل معهن عن طريق تطبيقنا وهدفنا هو دعم هذه الكوادر الاماراتية ومساعدتها لنشر وتوصيل منتجاتهن. شعارنا دائما من البيت الي البيت .  </string>
+    <string name="name">الاسم</string>
+    <string name="address">البريد الألكتروني</string>
+    <string name="phone">رقم الجوال</string>
+    <string name="ask">هل انت متأكد انك تريد تأكيد هذا الطلب وارساله؟</string>
+    <string name="load">جاري تسجيل طلبك</string>
+    <string name="details">عليك تحويل المبلغ على الحساب السابق او الدفع عند الاستلام</string>
+    <string name="mobile">... وارسال ايصال التحويل الى الواتس آب هذا :  971555733305   لأتمام عملية الشراء</string>
+    <string name="listorders">قائمة طلباتك المحدده</string>
+    <string name="confirm">تأكيد</string>
+    <string name="deletemontag">مسح المنتاجات</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="ignore">تخطي</string>
+    <string name="orderdetail">تفاصيل الطلب</string>
+    <string name="success">تم تسجيل تسجيل طلبك بنجاح</string>
+    <string name="lang">English</string>
+
+    <string name="date">تاريخ الميلاد</string>
+    <string name="search">بحث</string>
+
+    <string name="password">كلمة المرور</string>
+    <string name="allmoney">المبلغ الكلي</string>
+    <string name="hint_address"> البريد الألكترونى</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="hint_confirm_password">تأكيد كلمة المرور</string>
+    <string name="text_login">تسجيل الدخول</string>
+    <string name="text_register">انشاء حساب ؟</string>
+    <string name="forgetPassword">نسيت كلمة السر</string>
+    <string name="city">المدينة</string>
+    <string name="terms">الشروط والأحكام</string>
+    <string name="text_not_member">أنشاء حساب</string>
+    <string name="categorys">الأقسام</string>
+    <string name="mostPopular">الأكثر انتشاراً</string>
+    <string name="cart">اضافة الي عربة التسوق</string>
+    <string name="myInformation">معلوماتي</string>
+    <string name="notification">اشعارات</string>
+    <string name="Current">الحالية</string>
+    <string name="onging">جاري التنفيذ</string>
+    <string name="Cancelled">تم الألغاء</string>
+    <string name="subscribe">دفع الأشتراك</string>
+    <string name="Previous">السابقة</string>
+    <string name="sh">
+        الهدف من التطبيق :
+1-	التجول في بيئة إلكترونية سهلة تسمح للأسر المنتجة و تسمح للأعمال بالنمو و الازدهار ..
+2-	المساعدة قدر المستطاع بالحفاظ على الوضع الاقتصادي للأسر المنتجة و مساعدتهم بعرض منتجاتهم لتصل لأكبر عدد من الناس ..
+3-	المساهمة في تسهيل عملية البيع على التجار و الشراء بسهولة ..
+
+شروط البيع :
+1-	يجب أن يضم العقد طرفين وهما : البائع و المشتري ، فيشترط حصول الموافقة و القبول من الطرفين بالاتفاق و التراضي ..
+2-	يشترط أن يمتلك البائع الشيء المباع امتلاكاً كاملاً ، حتى يتم تسليمه للمشتري ..
+3-	يشترط أن يكون الشيء المباع حلالاً ، فلا يجوز التجارة بالمبطلات ..
+4-	يجب أن يكون الثمن معلوماً بين الطرفين ، يشترط أن يخلو الشيء المباع من الرهون ..
+5-	أن يكون البائع عاقلاً بالغاً ..
+6-	يشترط أن يمتلك البائع رخصة تجارية ..
+
+شروط الشراء:
+1-	يشترط أن تكون معلومات التسجيل صحيحة و دقيقة حتى تتمم عملية الشراء بنجاح ..
+2-	قراءة الوصف للمنتج تحت الصورة ..
+3-	بعض المنتجات لا تسترجع ولا تستبدل ، كالعطور ، و منتجات العناية و المكياج المفتوح و غيرها ..
+
+
+    </string>
+
+<string name="ss">
+    الهدف من التطبيق :
+1-	التجول في بيئة إلكترونية سهلة تسمح للأسر المنتجة و تسمح للأعمال بالنمو و الازدهار ..
+2-	المساعدة قدر المستطاع بالحفاظ على الوضع الاقتصادي للأسر المنتجة و مساعدتهم بعرض منتجاتهم لتصل لأكبر عدد من الناس ..
+3-	المساهمة في تسهيل عملية البيع على التجار و الشراء بسهولة ..
+
+شروط البيع :
+1-	يجب أن يضم العقد طرفين وهما : البائع و المشتري ، فيشترط حصول الموافقة و القبول من الطرفين بالاتفاق و التراضي ..
+2-	يشترط أن يمتلك البائع الشيء المباع امتلاكاً كاملاً ، حتى يتم تسليمه للمشتري ..
+3-	يشترط أن يكون الشيء المباع حلالاً ، فلا يجوز التجارة بالمبطلات ..
+4-	يجب أن يكون الثمن معلوماً بين الطرفين ، يشترط أن يخلو الشيء المباع من الرهون ..
+5-	أن يكون البائع عاقلاً بالغاً ..
+6-	يشترط أن يمتلك البائع رخصة تجارية ..
+
+شروط الشراء:
+1-	يشترط أن تكون معلومات التسجيل صحيحة و دقيقة حتى تتمم عملية الشراء بنجاح ..
+2-	قراءة الوصف للمنتج تحت الصورة ..
+3-	بعض المنتجات لا تسترجع ولا تستبدل ، كالعطور ، و منتجات العناية و المكياج المفتوح و غيرها ..
+
+
+</string>
+    <string-array name="account_num">
+        <item>
+            نقدي
+           </item>
+        <item>
+        تحويل بنكي
+        </item>
+        <item>
+           الدفع الألكتروني
+        </item>
+        <!--<item>-->
+        <!--الكويت-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--عمان-->
+        <!--</item>-->
+
+    </string-array>
+    <string-array name="country_num">
+        <item>
+            +966
+           </item>
+        <item>
+        +20
+        </item>
+        <!--<item>-->
+        <!--الكويت-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--عمان-->
+        <!--</item>-->
+
+    </string-array>
+    <string name="confirmPhone">تأكيد رقم الهاتف</string>
+    <string name="codemessage">سوف يصلك كود من 6 أرقام في رسالة نصيه بعد أختيار كود الدولة وادخ رقم هاتفك</string>
+
+    <string name="gold">تسوقوا الذهب</string>
+    <string name="mass">تسوقوا الألماس</string>
+    <string name="watch">تسوقوا الساعات</string>
+    <string name="cartName">عربة التسوق</string>
+    <string name="price">السعر :</string>
+    <string name="forgetPasword">إذا كنت بحاجة إلى مساعدة إعادة تعيين كلمة المرور الخاصة بك. نحن بحاجة إلى تأكيد تسجيلك عن طريق رقم هاتفك. </string>
+    <string name="facebook_app_id">657496788328201</string> <string name="fb_login_protocol_scheme">fb657496788328201</string>
+
+</resources>

@@ -1,0 +1,226 @@
+<resources>
+    <string name="app_name" >Fast Car</string>
+    <string name="hint_name" >name</string>
+    <string name="face">Login With Facebook</string>
+    <string name="MySubscribe">MySubscribe</string>
+    <string name="SubScribe">SubScribe</string>
+    <string name="UnSubScribe">UnSubScribe</string>
+    <string name="user">User</string>
+    <string name="Repair">Repair technician</string>
+    <string name="Winch">Winch</string>
+    <string name="personIdd">Personal ID</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="fani">Repair technician Or Winch</string>
+    <string name="SubScribeM">Monthly SubScribe</string>
+    <string name="addressTitle">Please specify the addresses for the required service</string>
+    <string name="autoAddress">Automatically determine current location</string>
+    <string name="handAddress">Writing the site manually</string>
+    <string name="Or">OR</string>
+    <string name="Faddress">Full address</string>
+    <string name="specialmarque">special marque</string>
+    <string name="userName">customer name</string>
+    <string name="requiredservice">The required service</string>
+    <string name="Costofinspection">Cost of inspection</string>
+    <string name="Chooseyourpaymentmethod">Choose your payment method</string>
+    <string name="finishOrder">Finish order</string>
+    <string name="Aaddress">Address :</string>
+    <string name="specila">if you loking for a proudct and didnt found it !!! , Dont worry.
+Send us product details and we will bring it for you. </string>
+    <string name="ProuductName">Product Name</string>
+    <string name="description">Description :</string>
+    <string name="bankAccounts">Bank Accounts</string>
+    <string name="upload">Upload images for your want Servcie </string>
+    <string name="NewOrders">New Orders</string>
+    <string name="bankpic">Upload the bank transfer picture</string>
+    <string name="real">R.S. </string>
+    <string name="MyOrders">My Orders</string>
+    <string name="finish">I Accept the Order</string>
+    <string name="Region">Region</string>
+    <string name="more">more</string>
+    <string name="detail">Product detail :</string>
+    <string name="LocationFrom">From :</string>
+    <string name="LocationTo">To :</string>
+    <string name="time">Time :</string>
+    <string name="typepay">Choose your method of payment</string>
+    <string name="cash">Cash</string>
+    <string name="creditcard">Electromic payment</string>
+    <string name="driverarrive">Car model</string>
+    <string name="space">Space :</string>
+    <string name="cancelOrder">cancel the order</string>
+    <string name="status">Status :</string>
+    <string name="NEwpassword">New Password</string>
+    <string name="whereto">Where To </string>
+    <string name="chat">Chat</string>
+    <string name="moreDetails">More details ....</string>
+    <string name="numberOf"> Number Of pieces :</string>
+    <string name="servcie">Offered service</string>
+    <string name="carNumber">Car number</string>
+    <string name="location">Location</string>
+    <string name="directorder">Direct Order</string>
+    <string name="carModel">Company name</string>
+    <string name="RegesterCar">Regester Driver</string>
+    <string name="RegisterServcie">Regisetr As Maintenance technician</string>
+    <string name="carId">Drive ID</string>
+    <string name="personId">Personal ID Forward</string>
+    <string name="personIdback">Personal ID Back</string>
+    <string name="imagead">Residence photo</string>
+    <string name="carIdf">Drive ID Forward</string>
+    <string name="carIdback">Drive ID Back</string>
+    <string name="guest">Continue As A Guest</string>
+    <string name="Register_Tager">Register As Fani</string>
+    <string name="profile">My Profile</string>
+    <string name="main">Main</string>
+    <string name="Logout">LogOut</string>
+    <string name="fatoura">receipt</string>
+    <string name="receve"> Confirm Reservation</string>
+    <string name="continuee">Continue</string>
+    <string name="staff">Staff</string>
+    <string name="info">Info</string>
+    <string name="servcies">Servcies</string>
+    <string name="Offers">Offer</string>
+    <string name="EnterDetails">Enter Details :</string>
+    <string name="accept">Accept </string>
+    <string name="country">City</string>
+    <string name="Ratethetechnician">Rate the technician</string>
+    <string name="feedback">Add your feedback</string>
+    <string name="Subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="men">men</string>
+    <string name="women">women</string>
+    <string name="hint_phone" >mobile</string>
+    <string name="salon">Healthy salons</string>
+    <string name="sport">Sports clubs</string>
+    <string name="wedding">Wedding halls</string>
+    <string name="meeting">Hospitality services</string>
+    <string name="whous" >Who us</string>
+    <string name="callus" >Call us</string>
+    <string name="details">You must transfer the amount to the previous account or pay when you buy. </string>
+    <string name="myorders" >My orders</string>
+    <string name="ask">Are you sure you want to confirm and send this request?</string>
+    <string name="addto">Add To Shopping Car</string>
+    <string name="mobile">... Send a transfer receipt to WhatsApp: 971555733305 to complete your purchase</string>
+    <string name="success">Your application registration has been successfully registered</string>
+    <string name="load">Your request is being registered</string>
+    <string name="subscribe">Pay the subscription</string>
+    <string name="lang">عربي</string>
+    <string name="whoustxt"> It is an application for an e-commerce platform that allows UAE merchants to view and sell products. Our motto is always from home to home. </string>
+
+    <string name="name" >name</string>
+    <string name="address" >Email</string>
+    <string name="phone" >Phone</string>
+    <string name="listorders" >List Of Orders</string>
+    <string name="confirm" >Confirm</string>
+    <string name="deletemontag" >Delete Orders</string>
+    <string name="login" >Login</string>
+    <string name="ignore" >Skip</string>
+    <string name="date" >birth date </string>
+    <string name="yourRides">Your Rides</string>
+    <string name="Setting">Settings</string>
+    <string name="password" >Password</string>
+    <string name="allmoney" >Cost</string>
+    <string name="hint_address" >Email</string>
+    <string name="hint_password" >Password</string>
+    <string name="hint_confirm_password" >Confirm Password </string>
+    <string name="text_login" >Login</string>
+    <string name="text_register">Register</string>
+    <string name="forgetPassword">Forget Password</string>
+    <string name="city">City</string>
+    <string name="text_not_member" >Registration</string>
+    <string name="search">Search</string>
+    <string name="orderdetail">Order Details</string>
+    <string name="terms">Terms and Conditions</string>
+    <string name="categorys">Categories</string>
+    <string name="mostPopular">Most popular </string>
+    <string name="cart">Add To Cart</string>
+    <string name="myInformation">My Infrmation</string>
+    <string name="notification">Notification</string>
+    <string name="Current">Current</string>
+    <string name="onging">Onging</string>
+    <string name="Cancelled">Cancelled</string>
+    <string name="Previous">Previous</string>
+    <string name="sh">
+        Objective of the application:
+1- Touring in an easy electronic environment that allows productive families and allows businesses to grow and prosper.
+2 - Help as much as possible by maintaining the economic situation of productive families and help them by offering their products to reach the largest number of people.
+3 - contribute to facilitate the sale process for merchants and purchase easily ..
+
+terms of sale :
+1- The contract must include two parties, namely the seller and the buyer.
+2 - It is required that the seller owns the whole thing sold, until it is delivered to the buyer.
+3 - It is required that the thing sold is halal, it is not permissible to trade in nullities.
+4 - The price must be known between the parties, provided that the thing sold free of mortgages ..
+5 - The seller should be very reasonable.
+6. The seller must have a commercial license.
+
+Purchase Terms:
+1- Registration information must be correct and accurate in order to complete the purchase successfully.
+2- Read the description of the product under the picture ..
+3 - Some products do not recover or replace, such as perfumes, care products and open makeup and others ..
+    </string>
+
+    <string name="ss">
+          Objective of the application:
+1- Touring in an easy electronic environment that allows productive families and allows businesses to grow and prosper.
+2 - Help as much as possible by maintaining the economic situation of productive families and help them by offering their products to reach the largest number of people.
+3 - contribute to facilitate the sale process for merchants and purchase easily ..
+
+terms of sale :
+1- The contract must include two parties, namely the seller and the buyer.
+2 - It is required that the seller owns the whole thing sold, until it is delivered to the buyer.
+3 - It is required that the thing sold is halal, it is not permissible to trade in nullities.
+4 - The price must be known between the parties, provided that the thing sold free of mortgages ..
+5 - The seller should be very reasonable.
+6. The seller must have a commercial license.
+
+Purchase Terms:
+1- Registration information must be correct and accurate in order to complete the purchase successfully.
+2- Read the description of the product under the picture ..
+3 - Some products do not recover or replace, such as perfumes, care products and open makeup and others
+    </string>
+    <string-array name="account_num">
+        <item>
+            Cash
+           </item>
+        <item>
+        Bank transfer
+        </item>
+        <item>
+            Electronic Payment
+        </item>
+        <!--<item>-->
+        <!--الكويت-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--عمان-->
+        <!--</item>-->
+
+    </string-array>
+    <string-array name="country_num">
+        <item>
+            +966
+           </item>
+        <item>
+        +20
+        </item>
+        <!--<item>-->
+        <!--الكويت-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--عمان-->
+        <!--</item>-->
+
+    </string-array>
+    <string name="confirmPhone">Confirm Phone</string>
+    <string name="codemessage">you will recicve code from 6 digits when select country code and your phone</string>
+
+    <string name="gold"> Shop gold</string>
+    <string name="mass"> Shop diamond</string>
+    <string name="watch"> Shop watches</string>
+    <string name="cartName">Shopping cart</string>
+    <string name="price">Price :</string>
+    <string name="forgetPasword">if you need help reselting your password. we need to confirm your registiration  by your phone number.</string>
+
+    <string name="facebook_app_id">657496788328201</string> <string name="fb_login_protocol_scheme">fb657496788328201</string>
+
+</resources>

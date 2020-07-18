@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "407154313447",
+    "firebase_url": "https://fastcar-675aa.firebaseio.com",
+    "project_id": "fastcar-675aa",
+    "storage_bucket": "fastcar-675aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407154313447:android:6d07eea4d44958427e3a42",
+        "android_client_info": {
+          "package_name": "com.khalej.fastcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407154313447-ija7vs0phfn0l3au1dnatsdq68pv2tit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khalej.fastcar",
+            "certificate_hash": "22fd65c93727d47d3cf5938ca60e08c55096fe37"
+          }
+        },
+        {
+          "client_id": "407154313447-ti54bg3kccmp9914j521i462ne20d3u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_2QNwHwbPUb5AoeZ75l8iQqWc2SiwLqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407154313447-ti54bg3kccmp9914j521i462ne20d3u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
